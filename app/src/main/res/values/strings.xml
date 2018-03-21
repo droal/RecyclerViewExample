@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">TipCalc</string>
+    <string name="main_button_submit">Calcular</string>
+    <string name="main_hint_bill">Total</string>
+    <string name="main_hint_percentage">% de propina</string>
+    <string name="main_button_increase">+</string>
+    <string name="main_button_decrease">-</string>
+    <string name="main_button_clear">Borrar recientes</string>
+    <string name="main_notice_clear">Elementos recientes ha quedado vacío</string>
+    <string name="main_menu_action_about_menu">Acerca del menú</string>
+    <string name="main_menu_action_about_string">Acerca de recursos de string</string>
+    <string name="main_menu_uri_error">Url no válida</string>
+    <string name="detail_message_bill">Total %,.1f </string>
+    <string name="global_message_tip">Propina %,.1f </string>
+
+    <string name="title_tip_detail">Detalle propina </string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment" translatable="false">Hello blank fragment</string>
+
+
+</resources>

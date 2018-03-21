@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".MainActivity">
+
+    <item
+        android:id="@+id/action_about_menu"
+        android:title="@string/main_menu_action_about_menu"
+        android:icon="@mipmap/ic_launcher"
+        app:showAsAction="never"
+        />
+    <item
+        android:id="@+id/action_about_strings"
+        android:title="@string/main_menu_action_about_string"
+        android:icon="@mipmap/ic_launcher"
+        app:showAsAction="never"
+        />
+
+    <!--  app:showAsAction="never" Nunca aparecera el icono solo los 3 puntos verticales -->
+    <!--  app:showAsAction="ifRoom" Aparecera el icono si hay espacio suficiente -->
+    <!--  app:showAsAction="always" Siempre se mostrara el icono de menu -->
+</menu>
+
+

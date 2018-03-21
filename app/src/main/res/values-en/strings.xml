@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">TipCalc</string>
+    <string name="main_button_submit">Calculate</string>
+    <string name="main_hint_bill">Total</string>
+    <string name="main_hint_percentage">% of tip</string>
+    <string name="main_button_increase">+</string>
+    <string name="main_button_decrease">-</string>
+    <string name="main_button_clear">Delete recent</string>
+    <string name="main_notice_clear">Recent elements</string>
+    <string name="detail_message_bill">"Total %,.1f "</string>
+    <string name="global_message_tip">"Tip %,.1f "</string>
+    <string name="title_tip_detail">Tip detail</string>
+    <string name="main_menu_uri_error">Invalid Url</string>
+    <string name="main_menu_action_about_menu">About menu</string>
+    <string name="main_menu_action_about_string">Abot string resources</string>
+</resources>
